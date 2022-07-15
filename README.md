@@ -10,4 +10,4 @@ A tool I've used a few times to get out of a financial-data bind quick.
 
 Example using integers for simplification:
 
-<img src="3_Number_Finder_screenshot.png" />
+<img src="3_Number_Finder_screenshot_dark.png" />
