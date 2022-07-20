@@ -10,4 +10,6 @@ A tool I've used a few times to get out of a financial-data bind quick.
 
 Example using integers for simplification:
 
-<img src="screenshot1.png" />
+There's also a bonus - a example of detecting dark mode with a CSS Media query.
+
+<img src="3_Number_Finder.png" />
